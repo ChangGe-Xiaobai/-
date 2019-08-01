@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.wrap{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.wangyi_title{
+    height: 1.16rem;
+    background-color: #fafafa;
+}
+.wangyi_title_center{
+    z-index: 1;
+    width: 10rem;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    padding: 0 .21333rem 0 .32rem;
+    height: 1.17333rem;
+    display: flex;
+    justify-content: space-between;
+}
+.return_index{
+    width: .64rem;
+    height: .58667rem;
+    background: url(../images/hxm_yanxuan-wap_p_20161201_style_img_sprites_hd-s9f33319f5a-b1aa4c35e6.png);
+    background-position: 0 -.98667rem;
+    background-repeat: no-repeat;
+    background-size: 2.29333rem 5.6rem;
+    float: left;
+}
+.wangyi_title_text{
+    display: inline-block;
+    width: 2.29333rem;
+    height: .72rem;
+    background: url(../images/hxm_yanxuan-wap_p_20161201_style_img_sprites_hd-s9f33319f5a-b1aa4c35e6.png);
+    background-position: 0 -1.70667rem;
+    background-repeat: no-repeat;
+    background-size: 2.29333rem 5.6rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.search_btn{
+    width: .85333rem;
+    height: .85333rem;
+    background: url(../images/hxm_yanxuan-wap_p_20161201_style_img_sprites_hd-s9f33319f5a-b1aa4c35e6.png);
+    background-position: 0 -4.74667rem;
+    background-repeat: no-repeat;
+    background-size: 2.29333rem 5.6rem;
+    float: right;
+    margin-right: .26667rem;
+}
+.shopping_cart{
+    width: .85333rem;
+    background: url(../images/hxm_yanxuan-wap_p_20161201_style_img_sprites_hd-s9f33319f5a-b1aa4c35e6.png);
+    height: .85333rem;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 2.29333rem 5.6rem;
+    float:right;
+}
+.logo_warp{
+    padding-top: 2.13333rem;
+    padding-bottom: 3.09333rem;
+}
